@@ -1,3 +1,6 @@
+// Box<T>
+// Allows indirection onto the heap
+
 #[allow(dead_code)]
 struct Nested {
 //    nested: Nested,
