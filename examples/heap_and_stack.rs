@@ -1,4 +1,4 @@
-fn func() -> String{
+fn func() -> String {
     let _baz = 42; // _baz is stored in the stack frame for func()
 
     // If we create a string, the storage for it is held on the heap
