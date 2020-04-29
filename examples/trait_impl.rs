@@ -35,4 +35,3 @@ fn main() {
 
     println!("{}, {}", result, result2);
 }
-
